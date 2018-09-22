@@ -122,4 +122,8 @@ __BEGIN_CDECLS;
 #define PDEV_PID_AMS_TCS3400        1
 #define PDEV_DID_AMS_LIGHT          1
 
+// Mediatek
+#define PDEV_VID_MEDIATEK           11
+#define PDEV_PID_MEDIATEK_8167S_REF 1
+
 __END_CDECLS;
